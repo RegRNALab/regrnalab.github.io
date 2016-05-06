@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Minimal Mistakes"
+title                    : "Regulatory RNA Lab"
 title_separator          : "-"
-name                     : &name "Michael Rose"
-description              : &description "A flexible Jekyll theme for your blog or site with a minimalist aesthetic."
-url                      : https://mmistakes.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : "/minimal-mistakes" # the subpath of your site, e.g. "/blog"
-gh_repo                  : "https://github.com/mmistakes/minimal-mistakes/blob"
+name                     : "Regulatory RNA Lab"
+description              : "Functional and evolutionary genomics of regulatory RNA"
+url                      : http://regrnalab.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+baseurl                  : # the subpath of your site, e.g. "/blog"
+gh_repo                  :
 teaser                   : # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
@@ -28,18 +28,18 @@ comments:
     colorscheme          : # "light" (default), "dark"
 
 # SEO Related
-google_site_verification : "UQj93ERU9zgECodaaXgVpkjrFn9UrDMEzVamacSoQ8Y"
+google_site_verification : "0OG__ZDgQQAE-eNWuJ6WfqAvnPTLgYUkC_GuOD2GHJM"
 bing_site_verification   :
 alexa_site_verification  :
 yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter "mmistakes"
-facebook:
-  username               : &facebook "michaelrose"
-  app_id                 :
-  publisher              :
+  username               : &twitter "SelFdz"
+#facebook:
+#  username               : &facebook "michaelrose"
+#  app_id                 :
+#  publisher              :
 og_image                 : "site-logo.png" # Open Graph/Twitter default site image
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
@@ -47,8 +47,7 @@ social:
   type                   : # Person or Organization (defaults to Person)
   name                   : # If the user or organization name differs from the site's name
   links: # An array of links to social media profiles
-    - "https://twitter.com/mmistakes"
-    - "https://facebook.com/michaelrose"
+    - "https://twitter.com/SelFdz"
 
 # Analytics
 analytics:
@@ -65,10 +64,10 @@ google_ad_slot           :
 author:
   name             : *name
   avatar           : "michael-rose.jpg"
-  bio              : "Just another boring, tattooed, time traveling, designer."
-  location         : "Buffalo, NY"
+  bio              : "This is a testito"
+  location         : "LANGEBIO, Cinvestav. Irapuato, Guanajuato, Mexico"
   email            : *email
-  uri              : "https://mademistakes.com"
+  uri              : "http://regrnalab.github.io/"
   bitbucket        :
   codepen          :
   dribbble         :
@@ -97,6 +96,7 @@ author:
 include:
   - .htaccess
   - _pages
+  ["_pages"]
 exclude:
   - "*.sublime-project"
   - "*.sublime-workspace"
