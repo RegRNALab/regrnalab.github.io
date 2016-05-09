@@ -93,7 +93,7 @@ author:
 
 
 # Reading Files
-include: [ ".htaccess","_pages"]
+include: [".htaccess","_pages"]
 
 exclude:
   - "*.sublime-project"
