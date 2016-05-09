@@ -2,6 +2,7 @@
 layout: publications
 modified: 2016-05-09
 comments: false
+permalink: /publications/
 ---
 
 
