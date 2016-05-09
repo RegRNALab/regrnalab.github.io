@@ -20,7 +20,7 @@ words_per_minute         : 200
 comments:
   provider               : "disqus" # false (default), "disqus", "facebook", "google-plus", custom"
   disqus:
-    shortname            : "minimalmistakes" # https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
+    shortname            : "regrnalab" # https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
   facebook:
     # https://developers.facebook.com/docs/plugins/comments
     appid                :
@@ -64,8 +64,8 @@ google_ad_slot           :
 author:
   name             : *name
   avatar           : "michael-rose.jpg"
-  bio              : "This is a testito"
-  location         : "LANGEBIO, Cinvestav. Irapuato, Guanajuato, Mexico"
+  bio              : "Funtional and evolutionary genomics of regulatory RNA"
+  location         : "LANGEBIO, Cinvestav.\nIrapuato, Guanajuato, Mexico"
   email            : *email
   uri              : "http://regrnalab.github.io/"
   bitbucket        :
@@ -74,10 +74,10 @@ author:
   flickr           :
   facebook         : *facebook
   foursquare       :
-  github           : "mmistakes"
+  github           : "regRNALab"
   google_plus      :
   keybase          :
-  instagram        : "mmistakes"
+  instagram        : 
   lastfm           :
   linkedin         :
   pinterest        :
