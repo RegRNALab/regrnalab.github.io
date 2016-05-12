@@ -1,5 +1,5 @@
 ---
-layout: publications
+layout: default
 modified: 2016-05-09
 comments: false
 ---
