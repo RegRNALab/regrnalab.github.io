@@ -2,7 +2,7 @@
 layout: single
 title: Publications
 modified: 2016-05-09
-comments: true
+comments: false
 ---
 
 <div class="category-box">
