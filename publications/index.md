@@ -1,7 +1,8 @@
 ---
-layout: default
+permalink: /publications/
+layout: single
 modified: 2016-05-09
-comments: false
+comments: true
 ---
 
 
