@@ -10,11 +10,11 @@ main:
 - title: Publications
   url: /publications/
 
-- title: Data
-  url: /data/
+#- title: Data
+#  url: /data/
 
-- title: People
-  url: /people/
+- title: Opportunities
+  url: /opportunities/
 
-- title: Posts
-  url: /posts/
+#- title: Posts
+#  url: /posts/
