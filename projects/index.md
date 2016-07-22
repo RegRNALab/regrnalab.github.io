@@ -6,13 +6,15 @@ excerpt: "Projects"
 comments: false
 ---
 
-* Genomica comparativa de regiones sintenicas que codifican para RNAs largos no codificantes para generar modelos
-evolutivos
+* Genómica comparativa de regiones sinténicas que generan ARNs largos no codificantes para caracterizar sus dinámicas evolutivas.
 
-* Identificacion de RNAs largos no codificantes en procesos de regeneracion y desarrollo embrionario en plantas y
+* Identificación de ARNs largos no codificantes en procesos de regeneración y desarrollo embrionario en plantas y
 animales
 
-* Identificacion de modulos funcionales conservados en RNAs largos no codificantes
+* Identificacion de regiones estructurales funcionales conservadas en RNAs largos no codificantes
 
-* Identificacion de variacion genetica en regiones no codificantes en poblaciones humanas
+* Identificación de variación genética en regiones no codificantes en poblaciones humanas
+
+* Identificación de ARNs largos no codificantes que participan en el proceso de diferenciación en el sistema inmune. 
+
 
