@@ -11,9 +11,14 @@ regulatory mechanisms underlying the phenotypic diversity and cell differentiati
 in multicellular eukaryotes. She is particularly interested in the regulatory roles of
 non-coding RNAs in these processes. 
 
-She has a Ph.D. in Bioinformatics from the Institute for Molecular Biosciences at
-the University of Queensland, Australia, with postdoctoral training at the School of
-Biological Sciences at the same university. 
+Selene has a Bachelor in Genomic Sciences from the
+National Autonomous University of Mexico
+([LCG-UNAM](http://www.lcg.unam.mx/)). She has
+a Ph.D. in Bioinformatics from the Institute for
+Molecular Biosciences ([IMB](http://www.imb.uq.edu.au/)) at
+the [University of Queensland](http://uq.edu.au/),
+Australia, with postdoctoral training at the [School of
+Biological Sciences](http://biology.uq.edu.au/) at the same university. 
 
 In addition to her academic roles, Selene actively participates in initiatives that link scientists
 and the general public (such as [Mas Ciencia por Mexico](http://masciencia.org/), 
