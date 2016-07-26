@@ -1,23 +1,23 @@
 # main links links
 main:
 
-- title: Research
+- title: "Research"
   url: /research/
 
-- title: Members 
+- title: "Members"
   url: /members/
 
-- title: Projects
+- title: "Projects"
   url: /projects/
 
-- title: Publications
+- title: "Publications"
   url: /publications/
 
 #- title: Data
 #  url: /data/
 
-- title: Opportunities
+- title: "Join us" 
   url: /opportunities/
-
-#- title: Posts
-#  url: /posts/
+  
+- title: "News"
+  url: /year-archive/
