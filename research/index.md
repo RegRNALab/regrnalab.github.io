@@ -12,10 +12,15 @@ some RNAs have long been known to have gene regulatory and catalytic capabilitie
 only in recent years has the sheer scale of regulatory capabilities of non-coding
 RNAs been truly envisioned. 
 
-In our lab we use bioinformatic and genomic data analysis tools to understand the evolution of gene regulatory mechanisms underlying the phenotypic diversity and cell differentiation in multicellular eukaryotes. 
+We use bioinformatic and genomic data analysis tools to
+understand the evolution of gene regulatory mechanisms
+underlying the phenotypic diversity and cell
+differentiation in multicellular eukaryotes. 
 
-To do this we use a number of models that span different evolutionary scales,
-including many important mexican endemic species. 
+We have a special interest in the evolutionary dynamics of non coding RNA
+molecules. To better understand their changes across time
+we study a number of biological models that span different evolutionary scales,
+including many mexican species of plants and animals. 
 
 Find out more in about our [projects](/projects/).
 
