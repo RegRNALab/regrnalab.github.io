@@ -65,7 +65,7 @@ author:
   name             :: "RegRNALab" 
   avatar           : "rna.jpg"
   bio              : "Funtional and evolutionary genomics of regulatory RNA"
-  location         : "LANGEBIO-Cinvestav, Mexico"
+  location         : "LANGEBIO, Mexico"
   email            :
   uri              : "http://regrnalab.github.io/"
   bitbucket        :
@@ -79,7 +79,7 @@ author:
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         :
+  linkedin         : "https://mx.linkedin.com/in/selenefernandez"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
