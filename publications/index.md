@@ -38,7 +38,7 @@ in the sponge and the origin of animal complexity.</a></h3>
 </div>
 
 <div class="pub">
-    <h3><a href="http://bmcgenomics.biomedcentral.com/articles/10.1186/s12864-015-1588-z" target="_new">Deep developmental transcriptome se- quencing uncovers numerous new genes and enhances gene annotation in the sponge <i>Amphimedon queenslandica</i>.</a></h3>
+    <h3><a href="http://bmcgenomics.biomedcentral.com/articles/10.1186/s12864-015-1588-z" target="_new">Deep developmental transcriptome sequencing uncovers numerous new genes and enhances gene annotation in the sponge <i>Amphimedon queenslandica</i>.</a></h3>
     <b>Fernandez-Valverde SL</b>, Calcino AD, Degnan BM
     <i>BMC Genomics</i>. <b> 16:387, 2015</b>
 </div>
