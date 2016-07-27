@@ -5,7 +5,7 @@ date:
 header:
   overlay_color: "#5e616c"
   overlay_image: Langebio.jpg
-excerpt: 'Studying the evolution of regulatory RNAs<br /> <small>We are hiring!</small><br />'
+excerpt: 'Studying the function and evolution of regulatory RNAs<br /> <small>We are hiring!</small><br />'
 feature_row:
   - image_path: dna-chromosome.svg
     alt: "projects"
