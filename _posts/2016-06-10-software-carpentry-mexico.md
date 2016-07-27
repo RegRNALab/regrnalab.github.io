@@ -37,7 +37,7 @@ number of Mexican academic institutions including the
 [Cinvestav Irapuato](http://www.ira.cinvestav.mx/) and 
 [LANGEBIO](http://www.langebio.cinvestav.mx/).  
 
-Over the course of taugh the basics of the Unix shell, Git and programming in R through live coding exercises. 
+Over the course of two days (June 8th and 9th) we taugh the basics of the Unix shell, Git and programming in R through live coding exercises. 
 
 Here are some tweets of the event:
 
