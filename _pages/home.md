@@ -26,7 +26,7 @@ feature_row:
     url: "http://www.langebio.cinvestav.mx/"
     btn_label: "Learn More"
 intro:
-  - excerpt: 'Follow us &nbsp; [<i class="fa fa-twitter"></i> @SelFdz](https://twitter.com/mmistakes){: .btn .btn--twitter}'
+  - excerpt: 'Follow us &nbsp; [<i class="fa fa-twitter"></i> @SelFdz](https://twitter.com/SelFdz){: .btn .btn--twitter}'
 ---
 
 {% include feature_row id="intro" type="left" %}
