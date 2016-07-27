@@ -29,6 +29,6 @@ intro:
   - excerpt: 'Follow us &nbsp; [<i class="fa fa-twitter"></i> @SelFdz](https://twitter.com/mmistakes){: .btn .btn--twitter}'
 ---
 
-{% include feature_row id="intro" type="center" %}
+{% include feature_row id="intro" type="left" %}
 
 {% include feature_row %}
