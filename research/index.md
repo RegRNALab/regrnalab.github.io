@@ -22,6 +22,6 @@ molecules. To better understand their changes across time
 we study a number of biological models that span different evolutionary scales,
 including many mexican species of plants and animals. 
 
-Find out more in about our [projects](/projects/).
+Find out more about our [projects](/projects/).
 
 
