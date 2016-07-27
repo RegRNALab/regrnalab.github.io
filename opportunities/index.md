@@ -5,7 +5,7 @@ modified: 2015-05-09
 comments: false
 ---
 
-If you are interested in the projects and joining the lab please email me at:
+If you are interested in the [projects](/projects/) and joining the lab please email me at:
 
 selene.fernandez.valverdeAAAAAAAAA@gmail.com (without polyA tail)
 
