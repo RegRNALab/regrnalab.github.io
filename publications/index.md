@@ -6,8 +6,16 @@ comments: false
 ---
 
 <div class="category-box">
-<a href="#2016"><span class="category-item">2016 <small>(2)</small></span></a><a href="#2015"><span class="category-item">2015 <small>(2)</small></span></a><a href="#2014"><span class="category-item">2014 <small>(1)</small></span></a><a href="#2013"><span class="category-item">2013 <small>(2)</small></span></a><a href="#2011"><span class="category-item">2011 <small>(1)</small></span></a><a href="#2010"><span class="category-item">2010 <small>(1)</small></span></a>
+<a href="#2016"><span class="category-item">2016<small>(2)</small></span></a><a href="#2015"><span class="category-item"> 2015<small>(2)</small></span></a><a href="#2014"><span class="category-item"> 2014<small>(1)</small></span></a><a href="#2013"><span class="category-item"> 2013<small>(2)</small></span></a><a href="#2011"><span class="category-item"> 2011<small>(1)</small></span></a><a href="#2010"><span class="category-item"> 2010<small>(1)</small></span></a>
 
+</div>
+
+<a name="Submitted">&nbsp;</a>
+<h1>Submitted</h1>
+<div class="pub">
+    <h3><a>Landscape of histone modifications in a sponge reveals the origin of animal <i>cis</i>-regulatory complexity</a></h3>
+    Gaiti F, <b>Fernandez-Valverde SL</b>, Degnan BM, Tanurdzic M
+    <i>Submitted</i>. 
 </div>
 
 <a name="2016">&nbsp;</a>
@@ -21,7 +29,7 @@ comments: false
 
 <div class="pub">
     <h3><a href="http://www.nature.com/nature/journal/v531/n7596/full/nature16994.html" target="_new">The mid-developmental transition and the evolution of animal body plans.</a></h3>
-    Levin M, Anavy L, Cole AG, Winter E, Mostov N, Khair S, Senderovich N, Kovalev E, Silver DH, Feder M,<b>Fernandez-Valverde
+    Levin M, Anavy L, Cole AG, Winter E, Mostov N, Khair S, Senderovich N, Kovalev E, Silver DH, Feder M, <b>Fernandez-Valverde
     SL</b>, Nakanishi N, Simmons D, Simakov O, Larsson T, Liu S-Y, Jerafi-Vider A, Yaniv K, Ryan JF, Martindale MQ, Rink JC, Arendt D, Degnan SM, Degnan BM, Hashimshony T, and Yanai I.
     <i>Nature</i>. <b>531:637-641, 2016</b>
 </div>
