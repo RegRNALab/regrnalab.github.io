@@ -7,9 +7,15 @@ comments: false
 feature_row:
   - image_path: Selene_2015.jpg
     alt: "Selene Fernandez-Valverde, Ph.D."
-    title: "Selene L. Fernandez-Valverde"
+    title: "Selene L. Fernandez-Valverde, Ph.D."
     excerpt: "Group Leader - Genomicist and bioinformatician"
     url: "/members/selene_fv"
+    btn_label: "Learn More"
+  - image_path: falcon.jpg
+    alt: "Francisco Javier Falcón Chávez"
+    title: "Francisco Javier Falcón Chávez"
+    excerpt: "Master's student - Integrative Biology"
+    url: "https://mx.linkedin.com/in/francisco-falcon-96068847"
     btn_label: "Learn More"
   - image_path: bio-photo.jpg
     alt: "you"
