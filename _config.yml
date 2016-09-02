@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Regulatory RNA Lab"
 title_separator          : "-"
-name                     : "Regulatory RNA Lab"
+name                     : "Regulatory RNA Lab - Advanced Genomics Unit - LANGEBIO, Cinvestav"
 description              : "Functional and evolutionary genomics of regulatory RNA"
 url                      : http://regrnalab.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
@@ -62,7 +62,7 @@ google_ad_slot           :
 
 # Site Author
 author:
-  name             :: "Regulatory RNA Lab - Advanced Genomics Unit - LANGEBIO, Cinvestav" 
+  name             :: "Regulatory RNA Lab" 
   avatar           : "rna.jpg"
   bio              : "Functional and evolutionary genomics of regulatory RNA"
   location         : "LANGEBIO, Mexico"
