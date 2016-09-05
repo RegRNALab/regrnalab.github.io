@@ -14,6 +14,7 @@ feature_row:
   - image_path: Itzel_Amasende.jpg
     alt: "Itzel Amasende Morales"   
     title: "Itzel Amasende Morales"
+    style:"height: 50px;"
     excerpt: "Rotation Student - Plant Biotechnology"
     url: "https://mx.linkedin.com/in/itzel-amasende-morales-207a00117"
     btn_label: "Learn More"
@@ -58,12 +59,12 @@ feature_row3:
     btn_label: "ResearchGate Profile"
 ---
 
-{% include feature_row type="center" %}
+{% include feature_row %}
 
 # As associate advisor
 
 ## Current (remote)
-{% include feature_row id="feature_row2" type="center" %}
+{% include feature_row id="feature_row2" type="left" %}
 
 ## Alumni 
-{% include feature_row id="feature_row3" type="center" %}
+{% include feature_row id="feature_row3" type="left" %}
