@@ -11,6 +11,12 @@ feature_row:
     excerpt: "Master's student - Integrative Biology"
     url: "https://mx.linkedin.com/in/francisco-falcon-96068847"
     btn_label: "Learn More"
+  - image_path: josian.png 
+    alt: "Josian Corona"
+    title: "Josian Corona"
+    excerpt: "Ph.D. student - Plant Biotechnology"
+    url: ""
+    btn_label: "Learn More"
   - image_path: Itzel_Amasende.jpg
     alt: "Itzel Amasende Morales"   
     title: "Itzel Amasende Morales"
