@@ -2,7 +2,7 @@
 layout: single
 title: Selene Fernandez
 permalink: /members/selene_fv/
-modified: 2016-05-09
+modified: 2017-03-06
 comments: false
 ---
 
@@ -26,7 +26,9 @@ and the general public (such as [Mas Ciencia por Mexico](http://masciencia.org/)
 programs to introduce researchers to computing
 ([Software](http://software-carpentry.org/)/[Data
 Carpentry](http://www.datacarpentry.org/)) as well as
-mentoring programs ([Ekpapalek](http://www.ekpapalek.com/)). 
+mentoring programs ([Ekpapalek](http://www.ekpapalek.com/) and [Mujeres en STEM: Futuras Líderes](https://www.usmexicofound.org/programs/mujeres-en-stem)). 
+
+She was one of five recipients of the L'Oreal-UNESCO research fellowship [For Women in Science](http://fondationloreal.com/en) - Mexico chapter - in the year 2016.
 
 You can find a list of publications in our [website](/publications) or via [Google
 Scholar](https://scholar.google.com.mx/citations?user=iHnkhAgAAAAJ&hl=en). Publishes
