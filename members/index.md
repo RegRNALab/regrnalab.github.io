@@ -29,13 +29,13 @@ feature_row:
     excerpt: "Master's student - Plant Biotechnology"
     url: "https://www.linkedin.com/in/irving-jair-garc%C3%ADa-l%C3%B3pez-299399ba"
     btn_label: "Learn More"
-    - image_path: bio-photo.jpg
+  - image_path: bio-photo.jpg
     alt: "Javier Blanco"
     title: "Javier Blanco"
     excerpt: "Rotation student - Integrative Biology"
     url: ""
     btn_label: "Learn More"
-    - image_path: bio-photo.jpg
+  - image_path: bio-photo.jpg
     alt: "Paul Jiménez"
     title: "Paul Jiménez"
     excerpt: "Rotation student - Integrative Biology"
@@ -82,7 +82,7 @@ feature_row4:
     excerpt: "Rotation Student - Plant Biotechnology"
     url: "https://www.linkedin.com/in/nicolás-fragoso-bargas-a42796128"
     btn_label: "Learn More"
-  - image_path: "https://www.ira.cinvestav.mx/Portals/0/Labs/LPPM/Emanuel_Cara.jpg-photo.jpg"
+  - image_path: "https://www.ira.cinvestav.mx/Portals/0/Labs/LPPM/Emanuel_Cara.jpg"
     alt: "Emanuel Martínez Ugalde"
     title: "Emanuel Martínez Ugalde"
     excerpt: "Rotation Student - Plant Biotechnology"
@@ -100,7 +100,6 @@ feature_row4:
     excerpt: "Rotation Student - Plant Biotechnology"
     url: ""
     btn_label: "Learn More"
-
 ---
 
 {% include feature_row %}
