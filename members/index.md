@@ -23,19 +23,19 @@ feature_row:
     excerpt: "Master's student - Plant Biotechnology"
     url: "https://mx.linkedin.com/in/luis-jordan-pérez-medina-3a683986"
     btn_label: "Learn More"
-  - image_path: bio-photo.jpg
+  - image_path: irving.jpg
     alt: "Irving Jair García López"
     title: "Irving Jair García López"
     excerpt: "Master's student - Plant Biotechnology"
     url: "https://www.linkedin.com/in/irving-jair-garc%C3%ADa-l%C3%B3pez-299399ba"
     btn_label: "Learn More"
-  - image_path: bio-photo.jpg
+  - image_path: javier.jpeg
     alt: "Javier Blanco"
     title: "Javier Blanco"
     excerpt: "Rotation student - Integrative Biology"
     url: ""
     btn_label: "Learn More"
-  - image_path: bio-photo.jpg
+  - image_path: paul.jpg
     alt: "Paul Jiménez"
     title: "Paul Jiménez"
     excerpt: "Rotation student - Integrative Biology"
