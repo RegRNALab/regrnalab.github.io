@@ -6,20 +6,21 @@ comments: false
 ---
 
 <div class="category-box">
-<a href="#2016"><span class="category-item">2016<small>(2)</small></span></a><a href="#2015"><span class="category-item"> 2015<small>(2)</small></span></a><a href="#2014"><span class="category-item"> 2014<small>(1)</small></span></a><a href="#2013"><span class="category-item"> 2013<small>(2)</small></span></a><a href="#2011"><span class="category-item"> 2011<small>(1)</small></span></a><a href="#2010"><span class="category-item"> 2010<small>(1)</small></span></a>
+<a href="#2016"><span class="category-item">2017<small>(2)</small></span></a><a href="#2016"><span class="category-item">2016<small>(2)</small></span></a><a href="#2015"><span class="category-item"> 2015<small>(2)</small></span></a><a href="#2014"><span class="category-item"> 2014<small>(1)</small></span></a><a href="#2013"><span class="category-item"> 2013<small>(2)</small></span></a><a href="#2011"><span class="category-item"> 2011<small>(1)</small></span></a><a href="#2010"><span class="category-item"> 2010<small>(1)</small></span></a>
 
 </div>
 
-<a name="Submitted">&nbsp;</a>
-<h1>Submitted</h1>
+<a name="2017">&nbsp;</a>
+
+<h1>2017</h1>
 <div class="pub">
     <h3><a>Landscape of histone modifications in a sponge reveals the origin of animal <i>cis</i>-regulatory complexity</a></h3>
-    Gaiti F, Jindrich K, <b>Fernandez-Valverde SL</b>, Roper KE, Degnan BM, Tanurdzic M
+    Gaiti F, Jindrich K, <b>Fernandez-Valverde SL</b>, Roper KE, Degnan BM, Tanurdzic M.
     <i>Accepted</i>. 
 </div>
 
 <div class="pub">
-    <h3><a>The crown-of-thorns starfish genome as a guide for biocontrol of this coral reef pest. Hall MR*, Kocot KM*, Baughman KW*, <b>Fernandez-Valverde SL</b>, Gauthier ME, Hatleberg WL, Krishnan A, McDougall C, Motti CA, Shoguchi E, Wang T, Xiang X, Zhao M, Bose U, Shinzato C, Hisata K, Fujie M, Kanda M, Cummins SF, Satoh N, Degnan SM and Degnan BM. *joint first authors
+    <h3><a>The crown-of-thorns starfish genome as a guide for biocontrol of this coral reef pest</a></h3> Hall MR*, Kocot KM*, Baughman KW*, <b>Fernandez-Valverde SL</b>, Gauthier ME, Hatleberg WL, Krishnan A, McDougall C, Motti CA, Shoguchi E, Wang T, Xiang X, Zhao M, Bose U, Shinzato C, Hisata K, Fujie M, Kanda M, Cummins SF, Satoh N, Degnan SM and Degnan BM. *joint first authors
     <i>Accepted</i>. 
 </div>
 
