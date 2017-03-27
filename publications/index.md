@@ -14,8 +14,13 @@ comments: false
 <h1>Submitted</h1>
 <div class="pub">
     <h3><a>Landscape of histone modifications in a sponge reveals the origin of animal <i>cis</i>-regulatory complexity</a></h3>
-    Gaiti F, <b>Fernandez-Valverde SL</b>, Degnan BM, Tanurdzic M
-    <i>Submitted</i>. 
+    Gaiti F, Jindrich K, <b>Fernandez-Valverde SL</b>, Roper KE, Degnan BM, Tanurdzic M
+    <i>Accepted</i>. 
+</div>
+
+<div class="pub">
+    <h3><a>The crown-of-thorns starfish genome as a guide for biocontrol of this coral reef pest. Hall MR*, Kocot KM*, Baughman KW*, <b>Fernandez-Valverde SL</b>, Gauthier ME, Hatleberg WL, Krishnan A, McDougall C, Motti CA, Shoguchi E, Wang T, Xiang X, Zhao M, Bose U, Shinzato C, Hisata K, Fujie M, Kanda M, Cummins SF, Satoh N, Degnan SM and Degnan BM. *joint first authors
+    <i>Accepted</i>. 
 </div>
 
 <a name="2016">&nbsp;</a>
