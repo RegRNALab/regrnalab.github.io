@@ -14,13 +14,13 @@ comments: false
 
 <h1>2017</h1>
 <div class="pub">
-    <h3><a>Landscape of histone modifications in a sponge reveals the origin of animal <i>cis</i>-regulatory complexity</a></h3>
+    <h3><a href="https://elifesciences.org/content/6/e22194" target="_new">Landscape of histone modifications in a sponge reveals the origin of animal <i>cis</i>-regulatory complexity</a></h3>
     Gaiti F, Jindrich K, <b>Fernandez-Valverde SL</b>, Roper KE, Degnan BM, Tanurdzic M.
     <i>eLife</i>. <b>10.7554/eLife.22194, 2017</b>
 </div>
 
 <div class="pub">
-    <h3><a>The crown-of-thorns starfish genome as a guide for biocontrol of this coral reef pest</a></h3> Hall MR*, Kocot KM*, Baughman KW*, <b>Fernandez-Valverde SL</b>, Gauthier ME, Hatleberg WL, Krishnan A, McDougall C, Motti CA, Shoguchi E, Wang T, Xiang X, Zhao M, Bose U, Shinzato C, Hisata K, Fujie M, Kanda M, Cummins SF, Satoh N, Degnan SM and Degnan BM. *joint first authors
+    <h3><a href="http://www.nature.com/nature/journal/vaop/ncurrent/abs/nature22033.html" target="_new">The crown-of-thorns starfish genome as a guide for biocontrol of this coral reef pest</a></h3> Hall MR*, Kocot KM*, Baughman KW*, <b>Fernandez-Valverde SL</b>, Gauthier ME, Hatleberg WL, Krishnan A, McDougall C, Motti CA, Shoguchi E, Wang T, Xiang X, Zhao M, Bose U, Shinzato C, Hisata K, Fujie M, Kanda M, Cummins SF, Satoh N, Degnan SM and Degnan BM. *joint first authors
     <i>Nature</i>. <b>544:231–234, 2017</b>
 </div>
 
@@ -34,7 +34,7 @@ comments: false
 </div>
 
 <div class="pub">
-    <h3><a href="http://www.nature.com/nature/journal/v531/n7596/full/nature16994.html" target="_new">The mid-developmental transition and the evolution of animal body plans.</a></h3>
+    <h3><a href="http://www.nature.com/nature/journal/v531/n7596/abs/nature16994.html" target="_new">The mid-developmental transition and the evolution of animal body plans.</a></h3>
     Levin M, Anavy L, Cole AG, Winter E, Mostov N, Khair S, Senderovich N, Kovalev E, Silver DH, Feder M, <b>Fernandez-Valverde
     SL</b>, Nakanishi N, Simmons D, Simakov O, Larsson T, Liu S-Y, Jerafi-Vider A, Yaniv K, Ryan JF, Martindale MQ, Rink JC, Arendt D, Degnan SM, Degnan BM, Hashimshony T, and Yanai I.
     <i>Nature</i>. <b>531:637-641, 2016</b>
