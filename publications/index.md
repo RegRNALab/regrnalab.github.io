@@ -16,12 +16,12 @@ comments: false
 <div class="pub">
     <h3><a>Landscape of histone modifications in a sponge reveals the origin of animal <i>cis</i>-regulatory complexity</a></h3>
     Gaiti F, Jindrich K, <b>Fernandez-Valverde SL</b>, Roper KE, Degnan BM, Tanurdzic M.
-    <i>Accepted</i>. 
+    <i>eLife</i>. <b>10.7554/eLife.22194, 2017</b>
 </div>
 
 <div class="pub">
     <h3><a>The crown-of-thorns starfish genome as a guide for biocontrol of this coral reef pest</a></h3> Hall MR*, Kocot KM*, Baughman KW*, <b>Fernandez-Valverde SL</b>, Gauthier ME, Hatleberg WL, Krishnan A, McDougall C, Motti CA, Shoguchi E, Wang T, Xiang X, Zhao M, Bose U, Shinzato C, Hisata K, Fujie M, Kanda M, Cummins SF, Satoh N, Degnan SM and Degnan BM. *joint first authors
-    <i>Accepted</i>. 
+    <i>Nature</i>. <b>544:231–234, 2017</b>
 </div>
 
 <a name="2016">&nbsp;</a>
@@ -94,10 +94,9 @@ in the sponge and the origin of animal complexity.</a></h3>
 
 <a name="2010">&nbsp;</a>
 <h1>2010</h1>
-       
+
 <div class="pub">
     <h3><a href="http://rnajournal.cshlp.org/content/16/10/1881.short" target="_new">Dynamic isomiR regulation in <i>Drosophila</i> development.</a></h3>
-    <b>Fernandez-Valverde SL</b>, Taft RJ, Mattick JS 
+    <b>Fernandez-Valverde SL</b>, Taft RJ, Mattick JS
     <i>RNA</i>. <b>16(10):1881-1888, 2010</b>
 </div>
-
