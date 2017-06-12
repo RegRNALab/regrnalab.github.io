@@ -29,30 +29,12 @@ feature_row:
     excerpt: "Master's student - Plant Biotechnology"
     url: "https://www.linkedin.com/in/irving-jair-garc%C3%ADa-l%C3%B3pez-299399ba"
     btn_label: "Learn More"
-  - image_path: javier.jpeg
-    alt: "Javier Blanco"
-    title: "Javier Blanco"
-    excerpt: "Rotation student - Integrative Biology"
-    url: ""
-    btn_label: "Learn More"
-  - image_path: paul.jpg
-    alt: "Paul Jiménez"
-    title: "Paul Jiménez"
-    excerpt: "Rotation student - Integrative Biology"
-    url: ""
-    btn_label: "Learn More"
   - image_path: Selene_2016.jpg
     alt: "Selene Fernandez-Valverde, Ph.D."
     title: "Selene L. Fernandez-Valverde, Ph.D."
     excerpt: "Group Leader - Genomicist and bioinformatician"
     url: "/members/selene_fv"
     btn_label: "Learn More"
-  - image_path: bio-photo.jpg
-    alt: "you"
-    title: "This could be you!"
-    excerpt: "We are looking for motivated students to join our team."
-    url: "/contact/"
-    btn_label: "Apply here!"
 feature_row2:
   - image_path: "https://lh4.googleusercontent.com/-9jrM6ET-akI/AAAAAAAAAAI/AAAAAAAAABA/lYx5CMUd9KY/photo.jpg"
     alt: "Federico Gaiti"
@@ -69,6 +51,18 @@ feature_row3:
     url: "https://www.researchgate.net/profile/Andrew_Calcino/"
     btn_label: "ResearchGate Profile"
 feature_row4:
+  - image_path: javier.jpeg
+    alt: "Javier Blanco"
+    title: "Javier Blanco"
+    excerpt: "Rotation student - Integrative Biology"
+    url: ""
+    btn_label: "Learn More"
+  - image_path: paul.jpg
+    alt: "Paul Jiménez"
+    title: "Paul Jiménez"
+    excerpt: "Rotation student - Integrative Biology"
+    url: ""
+    btn_label: "Learn More"
   - image_path: Itzel_Amasende.jpg
     alt: "Itzel Amasende Morales"   
     title: "Itzel Amasende Morales"
