@@ -44,8 +44,9 @@ feature_row:
 feature_row3:
   - image_path: "https://lh4.googleusercontent.com/-9jrM6ET-akI/AAAAAAAAAAI/AAAAAAAAABA/lYx5CMUd9KY/photo.jpg"
     alt: "Federico Gaiti"
-    title: "Federico Gaiti"
-    excerpt: "Ph.D. Candidate at the University of Queensland."
+    title: "Federico Gaiti, Ph.D."
+    excerpt: "Co-advised during Ph.D. studies at the University of Queensland. Currently a Postdoctoral Researcher
+    at the Meyer Cancer Center, Weill Cornell Medical College in New York, USA."
     url: "https://www.researchgate.net/profile/Federico_Gaiti"
     btn_label: "ResearchGate Profile"
   - image_path: "https://zoology.univie.ac.at/typo3temp/pics/fa86c176c8.jpg"
