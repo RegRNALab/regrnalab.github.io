@@ -7,19 +7,25 @@ permalink: /projects/
 comments: false
 ---
 
-* Comparative genomics of synthenic regions that generate long non coding RNAs (lncRNAs) to model their evolutionary dynamics. 
-	* *Genómica comparativa de regiones sinténicas que generan ARNs largos no codificantes para caracterizar sus dinámicas evolutivas.*
+### Comparative genomics of synthenic regions that generate long non-coding RNAs (lncRNAs) to model their evolutionary dynamics.
 
-* lncRNAs in regeneration and developmental processes in plants and animals.
-	*  *Identificación de ARNs largos no codificantes en procesos de regeneración y desarrollo embrionario en plantas y animales.*
+We are currently comparing the evolution of lncRNAs in synthenic regions in plants to measure how quickly they are lost gain across plant evolution. We also aim to understand what fraction of lncRNAs are under structural selection in this kingdom.
 
-* Identification of structurally conserved functional regions in lncRNAs.
-	*  *Identificacion de regiones estructurales funcionales conservadas en RNAs largos no codificantes.*
 
-* Genetic variation of non coding RNA producing regions in human populations.
-	* *Identificación de variación genética en regiones no codificantes en poblaciones humanas.*
-	
-* Identification of lncRNAs involved in differentiation in the immune system. 
-	* *Identificación de ARNs largos no codificantes que participan en el proceso de diferenciación en el sistema inmune.*
+### lncRNA evolution in regeneration and developmental processes in plants and animals.
+
+lncRNAs have documented functions as regulators of gene expression through the recruitment of chromatin modifying proteins. Given both regeneration and embryonic development are biological processes that involve large coordinated changes in gene expression, we are identifying and functionally characterizing lncRNAs with regulated expression in these processes, as well as comparing their function in diverse related species to identify functional conservation. Furthermore, we are trying to understand the contribution of lncRNAs to the differences observed in the gene regulation mechanisms between plants and animals.
+
+
+### Identification of functionally homologous lncRNA structural modules.
+
+One of the greatest limiting factors in the identification of lncRNA function is the lack of functional information at the modular level that could potentially be extrapolated to other lncRNAs. We are working in the identification of “structural domains” in lncRNAs that allow us to infer the function of such molecules de novo using bioinformatic methods for their identification join with experimental methods for functional validation.
+
+
+### Identification of lncRNAs associated to cardio-metabolic syndrome in mexican human populations.
+
+In collaboration with the group of Dr. [Andres Moreno-Estrada](http://www.morenolab.org/) and groups in Oxford University we are working in the genotypic characterization of 10,000 Mexicans throughout the country. We will use these data to identify lncRNAs under selection as well as associated to cardio-metabolic syndromes in admixed populations.
+
+
 
 
