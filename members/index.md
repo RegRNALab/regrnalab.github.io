@@ -29,6 +29,12 @@ feature_row:
     excerpt: "Master's student - Plant Biotechnology"
     url: "https://www.linkedin.com/in/irving-jair-garc%C3%ADa-l%C3%B3pez-299399ba"
     btn_label: "Learn More"
+  - image_path: ramon.jpg
+    alt: "Ramón Valdez Melchor"
+    title: "Ramón Valdez Melchor"
+    excerpt: "Visiting Scholar - Academic Technician at the Department of Health Sciences, Sonora University."
+    url: "http://ramon0387.wixsite.com/misitio"
+    btn_label: "Learn More"
   - image_path: Selene_2016.jpg
     alt: "Selene Fernandez-Valverde, Ph.D."
     title: "Selene L. Fernandez-Valverde, Ph.D."
