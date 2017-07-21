@@ -29,6 +29,12 @@ feature_row:
     excerpt: "Master's student - Plant Biotechnology"
     url: "https://www.linkedin.com/in/irving-jair-garc%C3%ADa-l%C3%B3pez-299399ba"
     btn_label: "Learn More"
+  - image_path: jaime.jpg
+    alt: "Jaime Alejandro Pérez Patiño"
+    title: "Jaime Alejandro Pérez Patiño"
+    excerpt: "Bachelor Student (Honours) - Biochemical Engineering, Technological Institute of Celaya."
+    url: "https://www.linkedin.com/in/jaimep887"
+    btn_label: "Learn More"
   - image_path: ramon.jpg
     alt: "Ramón Valdez Melchor"
     title: "Ramón Valdez Melchor"
