@@ -5,6 +5,12 @@ modified: 2017-03-06
 comments: false
 
 feature_row:
+  - image_path: Selene_2016.jpg
+    alt: "Selene Fernandez-Valverde, Ph.D."
+    title: "Selene L. Fernandez-Valverde, Ph.D."
+    excerpt: "Group Leader - Genomicist and bioinformatician"
+    url: "/members/selene_fv"
+    btn_label: "Learn More"
   - image_path: falcon.jpg
     alt: "Francisco Javier Falcón Chávez"
     title: "Francisco Javier Falcón Chávez"
@@ -40,12 +46,6 @@ feature_row:
     title: "Ramón Valdez Melchor"
     excerpt: "Visiting Scholar - Academic Technician at the Department of Health Sciences, Sonora University."
     url: "http://ramon0387.wixsite.com/misitio"
-    btn_label: "Learn More"
-  - image_path: Selene_2016.jpg
-    alt: "Selene Fernandez-Valverde, Ph.D."
-    title: "Selene L. Fernandez-Valverde, Ph.D."
-    excerpt: "Group Leader - Genomicist and bioinformatician"
-    url: "/members/selene_fv"
     btn_label: "Learn More"
 feature_row3:
   - image_path: "https://lh4.googleusercontent.com/-9jrM6ET-akI/AAAAAAAAAAI/AAAAAAAAABA/lYx5CMUd9KY/photo.jpg"
