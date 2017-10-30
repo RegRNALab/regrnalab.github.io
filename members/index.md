@@ -34,6 +34,11 @@ feature_row:
     title: "Irving Jair García López"
     excerpt: "Master's student - Plant Biotechnology"
     url: "https://www.linkedin.com/in/irving-jair-garc%C3%ADa-l%C3%B3pez-299399ba"
+  - image_path: alex.jpg
+    alt: "Rene Alexander Ramos Díaz"
+    title: "Rene Alexander Ramos Díaz"
+    excerpt: "Master's student - Integrative Biology"
+    url: ""
     btn_label: "Learn More"
   - image_path: jaime.jpg
     alt: "Jaime Alejandro Pérez Patiño"
