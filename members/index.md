@@ -52,12 +52,6 @@ feature_row:
     excerpt: "Bachelor Student (Honours) - Genomic Sciences, UNAM"
     url: ""
     btn_label: "Learn More"
-  - image_path: ramon.jpg
-    alt: "Ramón Valdez Melchor"
-    title: "Ramón Valdez Melchor"
-    excerpt: "Visiting Scholar - Academic Technician at the Department of Health Sciences, Sonora University."
-    url: "http://ramon0387.wixsite.com/misitio"
-    btn_label: "Learn More"
 feature_row3:
   - image_path: "https://lh4.googleusercontent.com/-9jrM6ET-akI/AAAAAAAAAAI/AAAAAAAAABA/lYx5CMUd9KY/photo.jpg"
     alt: "Federico Gaiti"
@@ -74,6 +68,12 @@ feature_row3:
     url: "https://www.researchgate.net/profile/Andrew_Calcino/"
     btn_label: "ResearchGate Profile"
 feature_row4:
+  - image_path: ramon.jpg
+    alt: "Ramón Valdez Melchor"
+    title: "Ramón Valdez Melchor"
+    excerpt: "Visiting Scholar - Academic Technician at the Department of Health Sciences, Sonora University."
+    url: "http://ramon0387.wixsite.com/misitio"
+    btn_label: "Learn More"
   - image_path: javier.jpeg
     alt: "Javier Blanco"
     title: "Javier Blanco"
