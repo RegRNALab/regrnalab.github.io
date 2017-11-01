@@ -43,8 +43,14 @@ feature_row:
   - image_path: jaime.jpg
     alt: "Jaime Alejandro Pérez Patiño"
     title: "Jaime Alejandro Pérez Patiño"
-    excerpt: "Bachelor Student (Honours) - Biochemical Engineering, Technological Institute of Celaya."
+    excerpt: "Bachelor Student (Honours) - Biochemical Engineering, Technological Institute of Celaya"
     url: "https://www.linkedin.com/in/jaimep887"
+    btn_label: "Learn More"
+  - image_path: emiliano.jpg
+    alt: "Jesus Emiliano Sotelo Fonseca"
+    title: "Jesus Emiliano Sotelo Fonseca"
+    excerpt: "Bachelor Student (Honours) - Genomic Sciences, UNAM"
+    url: ""
     btn_label: "Learn More"
   - image_path: ramon.jpg
     alt: "Ramón Valdez Melchor"
