@@ -11,6 +11,24 @@ feature_row:
     excerpt: "Group Leader - Genomicist and bioinformatician"
     url: "/members/selene_fv"
     btn_label: "Learn More"
+  - image_path: franciscojavier.jpg
+    alt: "Francisco Javier Pérez "
+    title: "Francisco Javier Pérez"
+    excerpt: "CONACYT Postdoctoral Researcher"
+    url: ""
+    btn_label: "Learn More"
+  - image_path: america.jpg
+    alt: "América Ramírez Colmenero"
+    title: "América Ramírez Colmenero"
+    excerpt: "Visiting Scholar"
+    url: ""
+    btn_label: "Learn More"
+  - image_path: dulce.jpg
+    alt: "Dulce Natali Gómez Hernández"
+    title: "Dulce Natali Gómez Hernández"
+    excerpt: "Rotation student - Plant Biotechnology"
+    url: ""
+    btn_label: "Learn More" 
   - image_path: falcon.jpg
     alt: "Francisco Javier Falcón Chávez"
     title: "Francisco Javier Falcón Chávez"
