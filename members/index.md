@@ -62,7 +62,7 @@ feature_row:
     alt: "Jesus Emiliano Sotelo Fonseca"
     title: "Jesus Emiliano Sotelo Fonseca"
     excerpt: "Master's student - Plant Biotechnology"
-    url: ""
+    url: "https://twitter.com/EmilianoSotel10"
     btn_label: "Learn More"
   - image_path: fany.jpg
     alt: "Stephanie Mata Bonilla"
