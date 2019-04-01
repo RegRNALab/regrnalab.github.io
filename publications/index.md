@@ -35,7 +35,7 @@ comments: false
 
 <h1>2018</h1>
 <div class="pub">
-    <h3><a>Inference of developmental gene regulatory networks beyond classical model systems: new approaches in the post-genomic era</a></h3> <b>Fernandez-Valverde SL</b>+, Aguilera F+, and Ramos-Diaz RA.
+    <h3><a href="https://academic.oup.com/icb/article-lookup/doi/10.1093/icb/icy061" target="_new">Inference of developmental gene regulatory networks beyond classical model systems: new approaches in the post-genomic era</a></h3> <b>Fernandez-Valverde SL</b>+, Aguilera F+, and Ramos-Diaz RA.
     <i>Integrative and Comparative Biology</i>. <b>58:640-653, 2018</b> <small><i>+corresponding authors</i></small>
 </div>
 

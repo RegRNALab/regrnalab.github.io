@@ -23,12 +23,6 @@ feature_row:
     excerpt: "Visiting Scholar"
     url: ""
     btn_label: "Learn More"
-  - image_path: dulce.jpg
-    alt: "Dulce Natali Gómez Hernández"
-    title: "Dulce Natali Gómez Hernández"
-    excerpt: "Rotation student - Plant Biotechnology"
-    url: ""
-    btn_label: "Learn More" 
   - image_path: falcon.jpg
     alt: "Francisco Javier Falcón Chávez"
     title: "Francisco Javier Falcón Chávez"
@@ -61,13 +55,25 @@ feature_row:
   - image_path: jaime.jpg
     alt: "Jaime Alejandro Pérez Patiño"
     title: "Jaime Alejandro Pérez Patiño"
-    excerpt: "Bachelor Student (Honours) - Biochemical Engineering, Technological Institute of Celaya"
+    excerpt: "Master's student - Plant Biotechnology"
     url: "https://www.linkedin.com/in/jaimep887"
     btn_label: "Learn More"
   - image_path: emiliano.jpg
     alt: "Jesus Emiliano Sotelo Fonseca"
     title: "Jesus Emiliano Sotelo Fonseca"
-    excerpt: "Bachelor Student (Honours) - Genomic Sciences, UNAM"
+    excerpt: "Master's student - Plant Biotechnology"
+    url: ""
+    btn_label: "Learn More"
+  - image_path: fany.jpg
+    alt: "Stephanie Mata Bonilla"
+    title: "Stephanie Mata Bonilla"
+    excerpt: "Master's student - Plant Biotechnology"
+    url: ""
+    btn_label: "Learn More"
+  - image_path: esteban.jpg
+    alt: "Esteban Elias Escobar Hernandez"
+    title: "Esteban Elias Escobar Hernandez"
+    excerpt: "Master's student - Plant Biotechnology"
     url: ""
     btn_label: "Learn More"
 feature_row3:
@@ -135,6 +141,12 @@ feature_row4:
     excerpt: "Rotation Student - Plant Biotechnology"
     url: ""
     btn_label: "Learn More"
+  - image_path: dulce.jpg
+    alt: "Dulce Natali Gómez Hernández"
+    title: "Dulce Natali Gómez Hernández"
+    excerpt: "Rotation student - Plant Biotechnology"
+    url: ""
+    btn_label: "Learn More" 
 ---
 
 {% include feature_row %}
