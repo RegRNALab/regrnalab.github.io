@@ -1,13 +1,34 @@
 ---
 layout: single
 title: Publications
-modified: 2017-05-11
+modified: 2019-04-01
 comments: false
 ---
 
 <div class="category-box">
-<a href="#2018"><span class="category-item"> 2018<small>(2)</small></span></a><a href="#2017"><span class="category-item"> 2017<small>(2)</small></span></a><a href="#2016"><span class="category-item"> 2016<small>(2)</small></span></a><a href="#2015"><span class="category-item"> 2015<small>(2)</small></span></a><a href="#2014"><span class="category-item"> 2014<small>(1)</small></span></a><a href="#2013"><span class="category-item"> 2013<small>(2)</small></span></a><a href="#2011"><span class="category-item"> 2011<small>(1)</small></span></a><a href="#2010"><span class="category-item"> 2010<small>(1)</small></span></a>
+<a href="#2019"><span class="category-item"> 2019<small>(2)</small></span></a>
+<a href="#2018"><span class="category-item"> 2018<small>(2)</small></span></a>
+<a href="#2017"><span class="category-item"> 2017<small>(2)</small></span></a>
+<a href="#2016"><span class="category-item"> 2016<small>(2)</small></span></a>
+<a href="#2015"><span class="category-item"> 2015<small>(2)</small></span></a>
+<a href="#2014"><span class="category-item"> 2014<small>(1)</small></span></a>
+<a href="#2013"><span class="category-item"> 2013<small>(2)</small></span></a>
+<a href="#2011"><span class="category-item"> 2011<small>(1)</small></span></a>
+<a href="#2010"><span class="category-item"> 2010<small>(1)</small></span></a>
 
+</div>
+
+<a name="2019">&nbsp;</a>
+
+<h1>2019</h1>
+<div class="pub">
+    <h3><a href="https://www.biorxiv.org/content/10.1101/588954v1.abstract" target="_new">Splicing conservation signals in plant long non-coding RNAs</a></h3> Corona-Gomez JA, Garcia-Lopez IJ, Stadler PF+ and <b>Fernandez-Valverde SL+</b>.
+    <i>bioRxiv</i>. <b>588954, 2019</b> <small><i>+corresponding authors</i></small>
+</div>
+
+<div class="pub">
+    <h3><a href="https://www.biorxiv.org/content/10.1101/564518v1.abstract" target="_new">Pluripotency and the origin of animal multicellularity</a></h3> Sogabe S, Hatleberg W, Say T, Stoupin D, Roper K, <b>Fernandez-Valverde SL</b>, Degnan SM and Degnan BM.
+    <i>bioRxiv</i>. <b>564518, 2018</b>
 </div>
 
 <a name="2018">&nbsp;</a>
@@ -15,12 +36,12 @@ comments: false
 <h1>2018</h1>
 <div class="pub">
     <h3><a>Inference of developmental gene regulatory networks beyond classical model systems: new approaches in the post-genomic era</a></h3> <b>Fernandez-Valverde SL</b>+, Aguilera F+, and Ramos-Diaz RA.
-    <i>Integrative and Comparative Biology</i>. <b>In press</b> <small><i>+corresponding authors</i></small>
+    <i>Integrative and Comparative Biology</i>. <b>58:640-653, 2018</b> <small><i>+corresponding authors</i></small>
 </div>
 
 <div class="pub">
     <h3><a href="https://www.biorxiv.org/content/early/2018/03/19/284349" target="_new">Diverse RNA interference strategies in early-branching metazoans</a></h3> Calcino AD, <b>Fernandez-Valverde SL</b>, Taft RJ and Degnan BM.
-    <i>bioRxiv</i>. <b>284349, 2018</b>
+    <i>BMC Evolutionary Biology</i>. <b>18:160, 2018</b>
 </div>
 
 
