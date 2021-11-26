@@ -1,7 +1,7 @@
 ---
 layout: single
 title: Members
-modified: 2017-03-06
+modified: 2021-11-25
 comments: false
 
 feature_row:
@@ -11,45 +11,16 @@ feature_row:
     excerpt: "Group Leader - Genomicist and bioinformatician"
     url: "/members/selene_fv"
     btn_label: "Learn More"
-  - image_path: franciscojavier.jpg
-    alt: "Francisco Javier Pérez "
-    title: "Francisco Javier Pérez"
-    excerpt: "CONACYT Postdoctoral Researcher"
-    url: ""
-    btn_label: "Learn More"
   - image_path: america.jpg
     alt: "América Ramírez Colmenero"
     title: "América Ramírez Colmenero"
     excerpt: "Visiting Scholar"
     url: ""
     btn_label: "Learn More"
-  - image_path: falcon.jpg
-    alt: "Francisco Javier Falcón Chávez"
-    title: "Francisco Javier Falcón Chávez"
-    excerpt: "Master's student - Integrative Biology"
-    url: "https://mx.linkedin.com/in/francisco-falcon-96068847"
-    btn_label: "Learn More"
-  - image_path: josian.png 
+  - image_path: josian.png
     alt: "Josian Corona"
     title: "Josian Corona"
-    excerpt: "Ph.D. student - Plant Biotechnology"
-    url: ""
-    btn_label: "Learn More"
-  - image_path: Jordan_Perez.jpg
-    alt: "Luis Jordan Pérez Medina"
-    title: "Luis Jordan Pérez Medina"
-    excerpt: "Master's student - Plant Biotechnology"
-    url: "https://mx.linkedin.com/in/luis-jordan-pérez-medina-3a683986"
-    btn_label: "Learn More"
-  - image_path: irving.jpg
-    alt: "Irving Jair García López"
-    title: "Irving Jair García López"
-    excerpt: "Master's student - Plant Biotechnology"
-    url: "https://www.linkedin.com/in/irving-jair-garc%C3%ADa-l%C3%B3pez-299399ba"
-  - image_path: alex.jpg
-    alt: "Rene Alexander Ramos Díaz"
-    title: "Rene Alexander Ramos Díaz"
-    excerpt: "Master's student - Integrative Biology"
+    excerpt: "Postdoctoral Researcher"
     url: ""
     btn_label: "Learn More"
   - image_path: jaime.jpg
@@ -58,6 +29,30 @@ feature_row:
     excerpt: "Master's student - Plant Biotechnology"
     url: "https://www.linkedin.com/in/jaimep887"
     btn_label: "Learn More"
+  - image_path: esteban.jpg
+    alt: "Esteban Elias Escobar Hernandez"
+    title: "Esteban Elias Escobar Hernandez"
+    excerpt: "Master's student - Plant Biotechnology"
+    url: ""
+    btn_label: "Learn More"
+  - image_path: irving.jpg
+    alt: "Irving Jair García López"
+    title: "Irving Jair García López"
+    excerpt: "Master's student - Plant Biotechnology"
+    url: "https://www.linkedin.com/in/irving-jair-garc%C3%ADa-l%C3%B3pez-299399ba"
+feature_row3:
+ - image_path: franciscojavier.jpg
+   alt: "Francisco Javier Pérez "
+   title: "Francisco Javier Pérez"
+   excerpt: "CONACYT Postdoctoral Researcher"
+   url: ""
+   btn_label: "Learn More"
+ - image_path: Jordan_Perez.jpg
+   alt: "Luis Jordan Pérez Medina"
+   title: "Luis Jordan Pérez Medina"
+   excerpt: "Master's student - Plant Biotechnology"
+   url: "https://mx.linkedin.com/in/luis-jordan-pérez-medina-3a683986"
+   btn_label: "Learn More"
   - image_path: emiliano.jpg
     alt: "Jesus Emiliano Sotelo Fonseca"
     title: "Jesus Emiliano Sotelo Fonseca"
@@ -70,13 +65,18 @@ feature_row:
     excerpt: "Master's student - Plant Biotechnology"
     url: ""
     btn_label: "Learn More"
-  - image_path: esteban.jpg
-    alt: "Esteban Elias Escobar Hernandez"
-    title: "Esteban Elias Escobar Hernandez"
-    excerpt: "Master's student - Plant Biotechnology"
+  - image_path: falcon.jpg
+    alt: "Francisco Javier Falcón Chávez"
+    title: "Francisco Javier Falcón Chávez"
+    excerpt: "Master's student - Integrative Biology"
+    url: "https://mx.linkedin.com/in/francisco-falcon-96068847"
+    btn_label: "Learn More"
+  - image_path: alex.jpg
+    alt: "Rene Alexander Ramos Díaz"
+    title: "Rene Alexander Ramos Díaz"
+    excerpt: "Master's student - Integrative Biology"
     url: ""
     btn_label: "Learn More"
-feature_row3:
   - image_path: "https://lh4.googleusercontent.com/-9jrM6ET-akI/AAAAAAAAAAI/AAAAAAAAABA/lYx5CMUd9KY/photo.jpg"
     alt: "Federico Gaiti"
     title: "Federico Gaiti, Ph.D."
@@ -146,17 +146,16 @@ feature_row4:
     title: "Dulce Natali Gómez Hernández"
     excerpt: "Rotation student - Plant Biotechnology"
     url: ""
-    btn_label: "Learn More" 
+    btn_label: "Learn More"
 ---
 
 {% include feature_row %}
 
 # As associate advisor
 
-## Alumni 
+## Alumni
 {% include feature_row id="feature_row3" type="left" %}
 
 ## Rotation Students
 
 {% include feature_row id="feature_row4" %}
-
