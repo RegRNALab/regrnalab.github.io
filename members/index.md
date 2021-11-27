@@ -41,18 +41,18 @@ feature_row:
     excerpt: "Master's student - Plant Biotechnology"
     url: "https://www.linkedin.com/in/irving-jair-garc%C3%ADa-l%C3%B3pez-299399ba"
 feature_row3:
- - image_path: franciscojavier.jpg
-   alt: "Francisco Javier Pérez "
-   title: "Francisco Javier Pérez"
-   excerpt: "CONACYT Postdoctoral Researcher"
-   url: ""
-   btn_label: "Learn More"
- - image_path: Jordan_Perez.jpg
-   alt: "Luis Jordan Pérez Medina"
-   title: "Luis Jordan Pérez Medina"
-   excerpt: "Master's student - Plant Biotechnology"
-   url: "https://mx.linkedin.com/in/luis-jordan-pérez-medina-3a683986"
-   btn_label: "Learn More"
+  - image_path: franciscojavier.jpg
+    alt: "Francisco Javier Pérez "
+    title: "Francisco Javier Pérez"
+    excerpt: "CONACYT Postdoctoral Researcher"
+    url: ""
+    btn_label: "Learn More"
+  - image_path: Jordan_Perez.jpg
+    alt: "Luis Jordan Pérez Medina"
+    title: "Luis Jordan Pérez Medina"
+    excerpt: "Master's student - Plant Biotechnology"
+    url: "https://mx.linkedin.com/in/luis-jordan-pérez-medina-3a683986"
+    btn_label: "Learn More"
   - image_path: emiliano.jpg
     alt: "Jesus Emiliano Sotelo Fonseca"
     title: "Jesus Emiliano Sotelo Fonseca"

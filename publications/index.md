@@ -1,11 +1,13 @@
 ---
 layout: single
 title: Publications
-modified: 2019-04-01
+modified: 2021-25-11
 comments: false
 ---
 
 <div class="category-box">
+<a href="#2021"><span class="category-item"> 2021<small>(2)</small></span></a>
+<a href="#2020"><span class="category-item"> 2020<small>(4)</small></span></a>
 <a href="#2019"><span class="category-item"> 2019<small>(2)</small></span></a>
 <a href="#2018"><span class="category-item"> 2018<small>(2)</small></span></a>
 <a href="#2017"><span class="category-item"> 2017<small>(2)</small></span></a>
@@ -18,17 +20,55 @@ comments: false
 
 </div>
 
-<a name="2019">&nbsp;</a>
+<a name="2021">&nbsp;</a>
 
-<h1>2019</h1>
+<h1>2021</h1>
 <div class="pub">
-    <h3><a href="https://www.biorxiv.org/content/10.1101/588954v1.abstract" target="_new">Splicing conservation signals in plant long non-coding RNAs</a></h3> Corona-Gomez JA, Garcia-Lopez IJ, Stadler PF+ and <b>Fernandez-Valverde SL+</b>.
-    <i>bioRxiv</i>. <b>588954, 2019</b> <small><i>+corresponding authors</i></small>
+    <h3><a href="https://www.biorxiv.org/content/10.1101/2021.10.12.464036v1" target="_new">Cnidarian hair cell development illuminates an ancient role for the class IV POU transcription factor in defining mechanoreceptor identity</a></h3> Ozment E, Tamvacakis AN, Zhou J, Rosiles-Loeza PY, Escobar-Hernandez EE, <b>Fernandez-Valverde SL</b>, Nakanishi N.
+    <i>bioRxiv</i>. <b>5464036, 2021</b>
 </div>
 
 <div class="pub">
-    <h3><a href="https://www.biorxiv.org/content/10.1101/564518v1.abstract" target="_new">Pluripotency and the origin of animal multicellularity</a></h3> Sogabe S, Hatleberg W, Say T, Stoupin D, Roper K, <b>Fernandez-Valverde SL</b>, Degnan SM and Degnan BM.
-    <i>bioRxiv</i>. <b>564518, 2018</b>
+     <h3><a href="https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1009218" target="_new">Ten Simple Rules for Organising a Bioinformatics Training Course in a Low-Middle Income Country</a></h3> Moore B, Carvajal-Lopez P, Chauke PA, Cristancho M, Domiguez del Angel V, <b>Fernandez-Valverde SL</b>, Ghouila A, Gopalasingam P, Guerfali FZ, Matimba A, Morgan SL, Oliveira G, Ras V, Reyes A, De Las Rivas J, Mulder N 
+    <i>PLoS Computational Biology</i>. <b>17: e1009218, 2021</b> 
+</div>
+
+<a name="2020">&nbsp;</a>
+
+<h1>2020</h1>
+
+<div class="pub">
+    <h3><a href="https://www.frontiersin.org/articles/10.3389/fgene.2020.589697/full" target="_new">Evolution of Genome-Organizing Long Non-coding RNAs in Metazoans</a></h3> Ramirez Colmenero A, Oktaba K and <b>Fernandez-Valverde SL+</b>.
+    <i>Frontiers in Genetics</i>. <b>11:1512, 2020</b> <small><i>+corresponding authors</i></small>
+</div>
+
+<div class="pub">
+    <h3><a href="https://www.nature.com/articles/s41580-020-0263-7" target="_new">Voices of the new generation: being a junior PI in a developing country</a></h3> <b>Fernandez-Valverde SL</b>.
+    <i>Nature Reviews Molecular Cell Biology </i>. <b>11:1, 2020</b> 
+</div>
+
+<div class="pub">
+    <h3><a href="https://rnajournal.cshlp.org/content/early/2020/04/02/rna.074393.119.short?rss=1" target="_new">Splicing conservation signals in plant long non-coding RNAs</a></h3> Corona-Gomez JA, Garcia-Lopez IJ, Stadler PF+ and <b>Fernandez-Valverde SL+</b>.
+    <i>RNA</i>. <b>26:784-793, 2020</b> <small><i>+corresponding authors</i></small>
+</div>
+
+<div class="pub">
+    <h3><a href="https://www.pnas.org/content/117/24/13800" target="_new">Active and repressed biosynthetic gene clusters have spatially distinct chromosome states. </a></h3> Nutzmann H-W*, Ramirez Colmenero A, Sotelo JE, Wegel E, di Stefano M, Wingett S, Fraser P, Hurst L, <b>Fernandez-Valverde SL</b> and Osbourn A .
+    <i>Proceedings of the National Academy of Science</i>. <b>117:13800-1380, 2020</b> 
+</div>
+
+<a name="2019">&nbsp;</a>
+
+<h1>2019</h1>
+
+<div class="pub">
+    <h3><a href="https://www.nature.com/articles/s41586-019-1290-4" target="_new">Pluripotency and the origin of animal multicellularity</a></h3> Sogabe S*, Hatleberg WL*, Kocot KM, Say TE, Stoupin D, Roper KE, <b>Fernandez-Valverde SL</b>, Degnan SM and Degnan BM.
+    <i>Nature</i>. <b>570:519-522, 2019</b>
+</div>
+
+<div class="pub">
+    <h3><a href="https://www.sciencedirect.com/science/article/abs/pii/S0723202019301183" target="_new">Metatranscriptomics and nitrogen fixation from the rhizoplane of maize plantlets inoculated with a group of PGPRs</a></h3> Gomez-Godinez LJ, <b>Fernandez-Valverde SL</b>, Martinez Romero JC and Martinez-Romero E.
+    <i>Systematic and Applied Microbiology</i>. <b>42:517-525, 2019</b>
 </div>
 
 <a name="2018">&nbsp;</a>
